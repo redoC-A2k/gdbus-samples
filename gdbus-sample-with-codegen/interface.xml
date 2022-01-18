@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<node>
+  <interface name="com.github.redoc.Sample">
+    <method name="sayHello">
+      <arg name="yourName" direction="in" type="s"/>
+    </method>
+  </interface>
+</node>
+
